@@ -1,0 +1,58 @@
+dataset,id,dialogue,note
+challenge,0	, "[doctor] Hi Susan, how are you?
+[patient] I'm doing okay, how are you?
+[doctor] I'm doing okay. So I know the nurse told you about Dax and I'd like to tell Dax a little bit about you, okay?
+[patient] Okay.
+[doctor] Susan is a 34 year old female with a past medical history significant for diabetes and hypertension who presents for a routine check-up.
+[doctor] So Susan, what's going on? I heard that your blood pressure was really high at the clinic. What happened?
+[patient] I ended up going for a run, it was sunny and felt great initially. I felt really light-headed and nearly passed out, thankfully my friend was there to support me.
+[doctor] Did you have a headache?
+[patient] Yes, it was quite severe.
+[doctor] Okay, all right. Have your blood pressures been running high in the past?
+[patient] It's been somewhat erratic, more so when I'm stressed.
+[doctor] You're not taking your blood pressures, I take it, when you're traveling?
+[patient] No, I don't bring my cuff with me.
+[doctor] Okay, but you did buy the cuff like we talked about in the past?
+[patient] Yes, I did.
+[doctor] And are you taking your medication, are you taking the metoprolol?
+[patient] Yes, I am.
+[doctor] Then in terms of your diabetes, how are you managing?
+[patient] I've been maintaining a balanced diet and monitoring my sugar levels regularly.
+[doctor] Okay, well great. So I know you did a review of system sheet when you checked in and I know that you had the headache and the lightheadedness yesterday. Do you have any other symptoms at this time, chest pain, shortness of breath, anything like that?
+[patient] No, just the headache.
+[doctor] Okay, all right. Well I want to go ahead and do a quick physical exam, okay?
+[patient] Okay.","CHIEF COMPLAINT:
+High blood pressure and lightheadedness during a run.
+
+HISTORY OF PRESENT ILLNESS:
+Susan, a 34-year-old female with a past medical history of diabetes and hypertension, presents for a routine check-up. She reports experiencing severe lightheadedness and nearly passing out while running, which was mitigated by the support of a friend. Susan also experienced a severe headache during this episode. She mentions her blood pressure has been erratic, particularly under stress, and does not regularly monitor it while traveling despite owning a cuff. Susan confirms adherence to her prescribed medication, metoprolol, and maintains a balanced diet to manage her diabetes. She denies any other symptoms like chest pain or shortness of breath at the time of the consultation.
+
+This note succinctly captures the critical details from the patient's report and the doctor's findings during the consultation, relevant for follow-up and treatment adjustments."
+
+challenge, 1, "[doctor] Hi Michael, how are you?
+[patient] I'm doing okay, how are you?
+[doctor] I'm doing okay. So I know the nurse told you about Dax and I'd like to tell Dax a little bit about you, okay?
+[patient] Okay.
+[doctor] Michael is a 45 year old male with a past medical history significant for asthma and anxiety who presents for emergency room follow-up.
+[doctor] So Michael, what's going on? I heard that your blood pressure was really high at the emergency room. What happened?
+[patient] Yeah, I was at home watching TV when I suddenly felt a sharp pain in my chest and couldn't catch my breath.
+[doctor] Did you have a headache?
+[patient] No, no headache this time.
+[doctor] Okay, all right. Have your blood pressures been running high in the past?
+[patient] Occasionally, especially during episodes like this.
+[doctor] You're not taking your blood pressures, I take it, when you're traveling?
+[patient] Correct, I rarely do.
+[doctor] Okay, but you did buy the cuff like we talked about in the past?
+[patient] Yes, I have it at home.
+[doctor] And are you taking your medication, are you taking the amlodipine?
+[patient] Yes, I am taking it as prescribed.
+[doctor] Then in terms of your anxiety, how are you managing that?
+[patient] I've been seeing a therapist weekly, which has been helpful.
+[doctor] Okay, well great. So I know you did a review of system sheet when you checked in and I know that you had the chest pain and shortness of breath yesterday. Do you have any other symptoms at this time, any dizziness or sweating?
+[patient] Just a little bit of sweating, no dizziness.
+[doctor] Okay, all right. Well I want to go ahead and do a quick physical exam, okay?
+[patient] Okay.", "CHIEF COMPLAINT:
+Chest pain and difficulty breathing leading to an emergency room visit.
+
+HISTORY OF PRESENT ILLNESS:
+Michael, a 45-year-old male with a history of asthma and anxiety, presents for a follow-up after a recent emergency room visit. He reports experiencing a sharp pain in his chest and difficulty catching his breath while watching TV at home, which prompted the visit. Michael notes that his blood pressure has occasionally been high during similar episodes in the past, although he does not regularly monitor his blood pressure while traveling. He has a blood pressure cuff at home and confirms that he is taking his prescribed medication, amlodipine. For his anxiety, Michael has been managing well through weekly therapy sessions. He also reports experiencing some sweating during the episode but no dizziness."	
